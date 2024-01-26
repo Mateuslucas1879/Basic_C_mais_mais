@@ -1,4 +1,5 @@
-#### C++ é uma linguagem de programação de propósito geral, orientada a objetos e de alto desempenho
+### C++ é uma linguagem de programação de propósito geral, orientada a objetos e de alto desempenho
+
 ### Orientação a Objetos:
 C++ suporta programação orientada a objetos, permitindo a definição de classes e objetos. Ele inclui recursos como encapsulamento, herança e polimorfismo.
 
